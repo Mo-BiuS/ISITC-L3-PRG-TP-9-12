@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="tp_arbres">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/tp_arbres.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
